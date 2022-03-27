@@ -1,2 +1,2 @@
 # spa-api-app
-simple example of react app to pull from an api
+simple example of react single page app to pull from data using twitter api
